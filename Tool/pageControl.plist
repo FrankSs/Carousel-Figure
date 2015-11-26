@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTintColor</key>
+	<string>0x555555</string>
+	<key>pageTintColor</key>
+	<string>0xFFFFFF</string>
+	<key>originX</key>
+	<integer>150</integer>
+	<key>originY</key>
+	<integer>150</integer>
+	<key>sizeWidth</key>
+	<integer>200</integer>
+	<key>sizeHeight</key>
+	<integer>20</integer>
+</dict>
+</plist>
